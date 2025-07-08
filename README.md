@@ -22,10 +22,15 @@
   <br />
 </div>
 
+<br/>
+<br/>
 # 📊 GitHub Stats:
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=rakeshsingh38&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rakeshsingh38&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshsingh38&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakeshsingh38&theme=dark&no-frame=false&no-bg=false&margin-w=4)
