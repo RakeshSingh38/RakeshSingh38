@@ -1,7 +1,5 @@
 # 💫 About Me:
-<p align="center">
 🌱 I’m currently learning<br>Docker, AWS (SAA), Kubernetes — and sharpening my TypeScript 🟦 for scalable full-stack development<br><br>💬 Ask me about<br>React ⚛️, Node.js 🚀, Express 🛠️, MongoDB 🍃, and smooth GSAP 🎞️ animations<br><br>😄 Fun fact<br> I once fixed a bug by yelling at my screen. Turns out fear is a debugging strategy 😤💻<br><br>
-</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RakeshSingh61) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakeshsinghtcp@gmail.com) 
