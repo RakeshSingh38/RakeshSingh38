@@ -56,7 +56,6 @@
 </p>
 <hr />
 
-# Snake eating contribution
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
@@ -73,8 +72,6 @@
 <br/>
 <br/>
 
-
-# 📊 GitHub Stats:
 <!-- stats -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
