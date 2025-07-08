@@ -24,13 +24,35 @@
 
 <br/>
 <br/>
-# 📊 GitHub Stats:
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=rakeshsingh38&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rakeshsingh38&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshsingh38&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
 
+
+# 📊 GitHub Stats:
+<!-- stats -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br />
+<p align=center>
+<!-- first row -->
+  <div align=center>
+  <!-- streak stats -->
+    <a href="https://github.com/RakeshSingh38/github-readme-streak-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=RakeshSingh38&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=RakeshSingh38&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=RakeshSingh38&theme=default&border=61dafb" alt="RakeshSingh38's streak stats" />
+      </picture>
+    </a>
+  <!-- github stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RakeshSingh38&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=RakeshSingh38&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=RakeshSingh38&show_icons=true&theme=default&border_color=61dafb" alt="RakeshSingh38's github stats" />
+      </picture>
+    </a>
+  </div>
+<br />
+<br />
+<br />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakeshsingh38&theme=dark&no-frame=false&no-bg=false&margin-w=4)
