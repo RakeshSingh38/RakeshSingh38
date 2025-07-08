@@ -11,6 +11,23 @@
 # Snake eating contribution
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
+  <!-- snake graph -->
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RakeshSingh38/RakeshSingh38/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/RakeshSingh38/RakeshSingh38/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/RakeshSingh38/RakeshSingh38/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
+</div>
+<br/>
+<br/>
+<br/>
+
   <br />
          <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=RakeshSingh38&theme=react&hide_border=true" />
