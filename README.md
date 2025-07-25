@@ -96,7 +96,7 @@
     </a>
   </div>
  <!-- spaces -->
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
   <!-- contribution graph -->
   <a href="https://github.com/RakeshSingh38/github-readme-activity-graph" title="Go to Source">
     <picture>
@@ -107,7 +107,9 @@
   </a>
 </p>
 
-<hr />
+<br />
+
+<br >
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakeshsingh38&theme=dark&no-frame=false&no-bg=false&margin-w=4)
