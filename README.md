@@ -70,6 +70,7 @@ Turns out fear is a debugging strategy 😤💻<br><br>
   <a href="https://leetcode.com/u/rakeshsingh38/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/rakeshsingh38/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
 </p>
+<hr/>
 
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
