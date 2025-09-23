@@ -8,14 +8,21 @@
   </a>
 </h1>
 
-
 # 💫 About Me:
-🌱 I’m currently learning<br>Docker, AWS (SAA), Kubernetes — and sharpening my TypeScript 🟦 for scalable full-stack development<br><br>💬 Ask me about<br>React ⚛️, Node.js 🚀, Express 🛠️, MongoDB 🍃, and smooth GSAP 🎞️ animations<br><br>😄 Fun fact<br> I once fixed a bug by yelling at my screen. Turns out fear is a debugging strategy 😤💻<br><br>
+
+🌱 I’m currently learning<br>Docker, AWS (SAA), Kubernetes — and sharpening my
+TypeScript 🟦 for scalable full-stack development<br><br>💬 Ask me
+about<br>React ⚛️, Node.js 🚀, Express 🛠️, MongoDB 🍃, and smooth GSAP 🎞️
+animations<br><br>😄 Fun fact<br> I once fixed a bug by yelling at my screen.
+Turns out fear is a debugging strategy 😤💻<br><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RakeshSingh61) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakeshsinghtcp@gmail.com) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RakeshSingh61)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakeshsinghtcp@gmail.com)
 
 # 💻 Tech Stack:
+
 <!-- skills -->
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br />
@@ -55,6 +62,14 @@
 </a>
 </p>
 <hr />
+
+<div align="center"> 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/u/rakeshsingh38/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/rakeshsingh38/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/rakeshsingh38/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+</p>
 
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
@@ -112,12 +127,15 @@
 <br >
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=rakeshsingh38&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=rakeshsingh38&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
