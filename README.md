@@ -6,14 +6,13 @@
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"  />
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+;+Myself+Rakesh!;&center=true&font=Righteous&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+There!+;+Myself+Rakesh!;&center=true&font=Righteous&size=35&color=1b7ecf">
   </a>
 </h1>
 
 # 💫 About Me:
 
-🌱 I’m currently learning<br>Docker, AWS (SAA), Kubernetes — and sharpening my
+🌱 I’m currently learning<br>AWS (SAA), Kubernetes — and sharpening my
 TypeScript 🟦 for scalable full-stack development<br><br>💬 Ask me
 about<br>React ⚛️, Node.js 🚀, Express 🛠️, MongoDB 🍃, and smooth GSAP 🎞️
 animations<br><br>😄 Fun fact<br> I once fixed a bug by yelling at my screen.
@@ -22,7 +21,7 @@ Turns out fear is a debugging strategy 😤💻<br><br>
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RakeshSingh61)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakeshsinghtcp@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@iamrakesh.codes)
 
 # 💻 Tech Stack:
 
@@ -64,20 +63,20 @@ Turns out fear is a debugging strategy 😤💻<br><br>
   <img src='https://img.shields.io/badge/Log-Alert-ca3e54?labelColor=5512ca&style=for-the-badge' alt="learning" />
 </a>
 </p>
-<hr />
+<h1> </h1>
 
 <div align="center"> 
-<h2 align="center">Leetcode Info<h2>  
+<h2 align="center">🤖 Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/u/rakeshsingh38/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/rakeshsingh38/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/rakeshsingh38/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
 </p>
-<hr/>
+</div>
+
+<h2 align="center">🛠️ Contribution</h2> 
 
 <div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RakeshSingh38/RakeshSingh38/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/RakeshSingh38/RakeshSingh38/blob/output/github-contribution-grid-snake.svg" />
