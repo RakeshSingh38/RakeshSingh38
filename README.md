@@ -1,10 +1,27 @@
-<!-- profile view count -->
 <img align="right" src="https://komarev.com/ghpvc/?username=RakeshSingh38&label=Profile%20Views&color=blueviolet&style=flat-square" alt="RakeshSingh38's profile views" />
 <br/>
 <!-- <img
     src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
     width="100%" height="70%" /> -->
 <!-- introduction -->
+
+
+```
+    
+                                              |
+                                              |   ❯ echo $USER
+.........    Escape the 'Gates' of Hell       |   rakesh-singh
+  `:::'                  .......  ......      |  
+   :::  *                  `::.    ::'        |   ❯ uname -o
+   ::: .::  .:.::.  .:: .::  `::. :'          |   Arch Linux
+   :::  ::   ::  ::  ::  ::    :::.           |  
+   ::: .::. .::  ::.  `::::. .:'  ::.         |   ❯ whoami    
+...:::.....................::'   .::::..      |   Developer | DevOps | Backend 
+        -- William E. Roadcap                 |
+                                              |   # Reach me out using... 
+                                              |   ❯ mail -s "Hello from.." rakesh@iamrakesh.codes
+                                              |
+```
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+There!+;+Myself+Rakesh!;&center=true&font=Righteous&size=35&color=1b7ecf">
@@ -13,16 +30,15 @@
 
 # 💫 About Me:
 
-🌱 I’m currently learning<br>AWS (SAA), Kubernetes — and sharpening my
-TypeScript 🟦 for scalable full-stack development<br><br>💬 Ask me
-about<br>React ⚛️, Node.js 🚀, Express 🛠️, MongoDB 🍃, and smooth GSAP 🎞️
+💬 Ask me
+about<br>Next.js, React ⚛️, Node.js 🚀, Express 🛠️, MongoDB 🍃, and smooth GSAP 🎞️
 animations<br><br>😄 Fun fact<br> I once fixed a bug by yelling at my screen.
 Turns out fear is a debugging strategy 😤💻<br><br>
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RakeshSingh61)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@iamrakesh.codes)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@iamrakesh.codes)
 
 # 💻 Tech Stack:
 
